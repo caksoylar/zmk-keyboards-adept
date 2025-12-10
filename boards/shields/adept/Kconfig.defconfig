@@ -12,10 +12,10 @@ config ZMK_POINTING
 config BT_DEVICE_APPEARANCE
     default 962
 
-config PMW3610
+config PMW3610_ALT
     default y
 
-config PMW3610_SMART_ALGORITHM
+config PMW3610_ALT_SMART_ALGORITHM
     default y
 
 endif
