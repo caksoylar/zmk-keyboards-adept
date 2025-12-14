@@ -2,4 +2,4 @@ manifest:
   projects:
     - name: zmk-pmw3610-driver-alt
       url: https://github.com/badjeff/zmk-pmw3610-driver
-      revision: zmk-0.4
+      revision: main
